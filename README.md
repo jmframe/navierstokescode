@@ -12,3 +12,6 @@ This script has a bunch of functions that can be called to calculate things rela
 
 ## run_some_ns_code.ipynb
 This notebook is for running code, plotting things and exploring fluid dynamics.
+
+## ./mathematics_primer
+This directory has a bunch of lessons for understanding the mathematics behind the Navier-Stokes equations. They are usually simple solutions to toy problems, designed to give the user an intuitive understanding.
